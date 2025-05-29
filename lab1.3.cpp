@@ -1,3 +1,4 @@
+//DSbaral
 /*WAP in c to store and retieve the name of the students and obtained marks in in 1st semester using structure*/
 #include <stdio.h>
 struct Student
