@@ -1,3 +1,6 @@
+/*WAP in c to find the average expenditure of a company for each month of each year, each year and average
+over the range of years specified.Use array to construct a table,display the table of ecpenditure and find 
+the sum and average*/
 #include <stdio.h>
 #include <string.h>
 
