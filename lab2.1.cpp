@@ -1,3 +1,4 @@
+//DSbaral
 /*WAP in cpp to set a structure to hold date (mm,dd andyy),assign
 values to the members of the structure and print out the values
 in the format 11/28/2004 by function .Pass the structure to the
