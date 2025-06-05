@@ -1,3 +1,4 @@
+//Dsbaral
 /*WAP in cpp to dislpay the current monthly salary of chief executive officer , information officer, and system  thanalyst, programmerat has been increased by 9,10,12 and 12 percentage respectively in year 2010. Let us assume that the salaries in year 2009 are
 Cheif execuitve officer Rs.35000/m
 Information officer Rs.25000/m
