@@ -27,7 +27,8 @@ public:
     }
     void displayreport()
     {
-        cout << "An employee with  id " << empId << " has received Rs " << overHrs * rate << " as a bonus and had worked " << overHrs << "hours as overtime in the year " << yrs << endl;
+        cout << "An employee with  id " << empId << " has received Rs " << overHrs * rate << " as a 
+            bonus and had worked " << overHrs << "hours as overtime in the year " << yrs << endl;
     }
 };
 int main()
