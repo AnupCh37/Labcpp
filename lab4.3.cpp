@@ -19,7 +19,7 @@ public:
     Employee(string name, int i) : DepName(name), DepID(i)
     {
         cout << "Initilizated object " << count++ << " using constructor " << endl;
-    };
+    }
     ~Employee()
     {
         cout << "Object " << --count << " goes out of the scope " << endl;
