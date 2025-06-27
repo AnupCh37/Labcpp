@@ -13,7 +13,7 @@ private:
     float rate;
 
 public:
-    TollBoth() : num_vehical(0.0), hrs(0.0), rate(0.0) { countVehical++; };
+    TollBoth() : num_vehical(0), hrs(0), rate(0.0) { countVehical++; };
     TollBoth(int vnum, int h, float r) : num_vehical(vnum), hrs(h), rate(r) { countVehical++; };
     void getdata()
     {
