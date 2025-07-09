@@ -1,3 +1,5 @@
+//DsBaral 
+//WAP in cpp to show the overloading over logical operator 
 #include <iostream>
 using namespace std;
 class Logic
