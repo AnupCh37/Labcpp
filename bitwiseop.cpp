@@ -1,3 +1,5 @@
+//Dsbaral
+//WAP in cpp to show the overloading of bitwise operator 
 #include <iostream>
 using namespace std;
 class Bitwise
